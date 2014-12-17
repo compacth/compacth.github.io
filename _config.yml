@@ -1,0 +1,8 @@
+safe: true
+source: .
+destination: ./_site
+lsi: false
+highlighter: pygments 
+auto: true
+exclude: ["vendor"]
+title: 税金はどこへ行った？
